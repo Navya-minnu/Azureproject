@@ -1,9 +1,0 @@
-{
-	"name": "datafactory-orchestration",
-	"location": "eastus",
-	"identity": {
-		"type": "SystemAssigned",
-		"principalId": "2a539b9d-8f5f-46a8-a460-9ec4998f802b",
-		"tenantId": "fe952e0f-9ca0-4830-aab0-9d63fe4550d9"
-	}
-}
